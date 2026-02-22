@@ -15,7 +15,10 @@ Replaces the default Blizzard death count skull with a movable, customizable wid
 
 
 ## Install
-Click the green Code button, Download ZIP, save in your Addon folder.
+Click the ZephDeaths v0.20 release link. Download ZIP, save in your Addon folder.
+
+<img width="381" height="286" alt="image" src="https://github.com/user-attachments/assets/ea1b9246-bb98-49d0-9fb7-47c6eb44f195" />
+
 
 ## Commands
 - `/zd` — show help
