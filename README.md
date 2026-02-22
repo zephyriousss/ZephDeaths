@@ -28,8 +28,8 @@ Download the two files and place them in:
 - `/zd test` — load test data
 
 ## Screenshots
-<img width="482" height="444" alt="image" src="https://github.com/user-attachments/assets/c6fc89b0-b7ca-455a-98ae-510f53630c27" />
+<img width="577" height="697" alt="image" src="https://github.com/user-attachments/assets/803faa8a-e664-425e-8ea1-f5491ddaf601" />
 
-<img width="577" height="697" alt="image" src="https://github.com/user-attachments/assets/47e9edcf-f32b-4abe-a8b0-ea300a424f75" />
+<img width="533" height="423" alt="image" src="https://github.com/user-attachments/assets/f75878d4-7da2-4ed2-a9b7-915043dc2f64" />
 
 
