@@ -1,0 +1,10 @@
+## Interface: 120001
+## Title: ZephDeaths
+## Notes: Per-player death tracking for Mythic+ dungeons
+## Author: Zephyrious
+## Version: 0.20
+## SavedVariables: ZephDeathsDB
+## IconTexture: Interface\TARGETINGFRAME\UI-TargetingFrame-Skull
+## AddonCompartmentFunc: ZephDeaths_OnCompartmentClick
+
+ZephDeaths.lua
