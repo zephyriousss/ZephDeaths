@@ -11,15 +11,12 @@ Replaces the default Blizzard death count skull with a movable, customizable wid
 - Customizable icon size, font size, font color, text position
 - Option to hide the default Blizzard death counter
 - Death flash effect on the skull icon
-- Session persistence across /reload
-- Manual tracking mode for use outside keystones
-- Feign Death filtering (spell ID based, works on all locales)
+- Manual tracking and testing modes for use outside keystones (so you can configure it before entering a key)
+
 
 ## Install
 Download the two files and place them in:
 `World of Warcraft/_retail_/Interface/AddOns/ZephDeaths/`
-
-Or clone this repo directly into your AddOns folder.
 
 ## Commands
 - `/zd` — show help
@@ -31,4 +28,8 @@ Or clone this repo directly into your AddOns folder.
 - `/zd test` — load test data
 
 ## Screenshots
-*(add screenshots here later)*
+<img width="482" height="444" alt="image" src="https://github.com/user-attachments/assets/c6fc89b0-b7ca-455a-98ae-510f53630c27" />
+
+<img width="577" height="697" alt="image" src="https://github.com/user-attachments/assets/47e9edcf-f32b-4abe-a8b0-ea300a424f75" />
+
+
